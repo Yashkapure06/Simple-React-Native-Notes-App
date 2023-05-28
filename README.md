@@ -1,6 +1,5 @@
 # Simple Notes App
 
-[Check Here](exp://exp.host/@yashkapure/notesApp?release-channel=default)
 
 ## Description
 
